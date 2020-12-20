@@ -1,0 +1,9 @@
+#time {
+    width: 1000px;
+    height: 520px;
+    background-color: blue;
+    color: red;
+    font-size: 200px;
+    display: flex;
+    align-items: center;
+}
